@@ -1,4 +1,4 @@
 HodorSite
 =========
 
-Hackaton
+Hackathon
